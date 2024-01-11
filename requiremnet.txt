@@ -1,0 +1,7 @@
+This is chat App
+
+
+-Emoji
+-Type
+-Colors
+-Vibrant
